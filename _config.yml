@@ -100,12 +100,3 @@ theme: landscape
 deploy:
     type: git
     repo: https://moonwoou@github.com/moonwoou/moonwoou.github.io
-
-plugins:
-    - hexo-deployer-git
-
-# hexo-admin authentification
-admin:
-    username: 
-    password_hash: 
-    secret: 
